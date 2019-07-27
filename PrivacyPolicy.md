@@ -44,6 +44,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 ### Children’s Privacy
 
 These Services address anyone under the age of 13.  I do not knowingly do not use information and content that are not intended for anyone under the age of 13.
+
 This Service does not show advertisements to children from non-certified advertising networks, and I do not collect information that allows identifying children's personalities.
 
 ### Changes to This Privacy Policy
