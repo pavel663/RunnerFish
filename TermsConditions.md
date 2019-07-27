@@ -24,3 +24,4 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 
 If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at **blackcatsoftworks@gmail.com**.
 
+## [Privacy Policy](https://pavel663.github.io/RunnerFish/PrivacyPolicy)
