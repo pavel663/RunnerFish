@@ -52,3 +52,5 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 ### Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at **blackcatsoftworks@gmail.com**.
+
+## [Terms & Conditions] (https://pavel663.github.io/RunnerFish/TermsConditions)
