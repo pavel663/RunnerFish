@@ -43,7 +43,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ### Children’s Privacy
 
-These Services address anyone under the age of 13.  I do not knowingly 
+These Services address anyone under the age of 13.  I do not knowingly do not use information and content that are not intended for anyone under the age of 13.
 
 ### Changes to This Privacy Policy
 
